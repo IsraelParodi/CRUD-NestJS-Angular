@@ -3,8 +3,8 @@
 # Backend
 NestJS
 
-# Fronetend
-Angular
+# Frontend
+Angular / Tailwind CSS
 
 # Database
 MongoDB
